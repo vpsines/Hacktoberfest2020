@@ -46,3 +46,7 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+  #### Name: [Jerry](https://github.com/jerr-y)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [Jerry](https://github.com/jerr-y)
