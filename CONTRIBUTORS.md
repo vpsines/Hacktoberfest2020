@@ -50,3 +50,7 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+### Name: [Salvin Antony Varghese](https://github.com/salvinanto7)
+ - Place: Kerala,India
+ - Bio:ECE student at MACE
+ - GitHub: [salvinanto7](https://github.com/salvinanto7)
