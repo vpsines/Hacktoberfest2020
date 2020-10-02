@@ -50,3 +50,7 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+#### Name :[Jito Joyes](https://github.com/Jittojoyes98)
+-Place :Kerala,india
+-Bio :Student
+-Github :[jittojoyes98](https://github.com/Jittojoyes98)
