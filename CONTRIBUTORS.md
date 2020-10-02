@@ -48,5 +48,5 @@
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
  #### Name: [luik-2210](https://github.com/luik-2210)
  - Place: Chatthisgarh, India
- - Bio: Student
+ - Bio: Student,2nd year B.tech
  - GitHub: [luik-2210](https://github.com/luik-2210)
