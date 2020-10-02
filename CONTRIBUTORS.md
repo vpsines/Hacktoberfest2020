@@ -50,3 +50,7 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+  #### Name: [Naveen_K](https://github.com/Naveenmavoor)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [Naveenmavoor](https://github.com/Naveenmavoor)
