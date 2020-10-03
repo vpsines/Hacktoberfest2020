@@ -69,5 +69,9 @@
 - Bio: Student
 - GitHub: [nafladiva](https://github.com/nafladiva)
 
+ #### Name: [Scott](https://github.com/scott-au)
+- Place: Australia
+- Bio: Student
+- GitHub: [Scott](https://github.com/scott-au)
 
 
