@@ -13,7 +13,11 @@
 #### Name: Farzan T A
  - Place: Tamilnadu
  - Bio: Student
- - GitHub: [farzanfa00](https://github.com/farzanfa00)
+ - GitHub: [farzanfa00](https://github.com/farzanfa00)  
+#### Theologos, Baxevanos
+- Place: Zurich, Switzerland
+- Bio: Student
+- GitHub: [greatmerlin](https://github.com/greatmelrin)  
 #### Name: [Ishita](https://github.com/talkishita)
 - Place: Chandigarh
 - Bio: First year student
@@ -68,6 +72,3 @@
 - Place: Aceh, Indonesia
 - Bio: Student
 - GitHub: [nafladiva](https://github.com/nafladiva)
-
-
-
