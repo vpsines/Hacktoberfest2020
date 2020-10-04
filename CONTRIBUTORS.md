@@ -87,4 +87,7 @@
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
-
+#### Name: [Vibha Mishra](https://github.com/vibha-mishra)
+- Place: Kanpur, India
+- Bio: Student
+- GitHub: [vibha-mishra](https://github.com/vibha-mishra)
