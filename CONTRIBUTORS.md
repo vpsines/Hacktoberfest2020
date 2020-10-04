@@ -69,5 +69,8 @@
 - Bio: Student
 - GitHub: [nafladiva](https://github.com/nafladiva)
 
-
+ #### Name: [Harish Trio Adityawan](https://github.com/harishtaa)
+- Place: Semarang, Indonesia
+- Bio: Student
+- GitHub: [harishtaa](https://github.com/harishtaa)
 
