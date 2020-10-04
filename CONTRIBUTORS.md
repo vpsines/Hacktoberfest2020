@@ -46,6 +46,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+#### Name: [Thushar Kiran](https://github.com/thusharkiransd)
+ - Place: Kochi, India
+ - Bio: Student
+ - GitHub: [thusharkiransd](https://github.com/thusharkiransd)
   #### Name: [Simayon Thampi](https://github.com/Simayon)
  - Place: Kerala, India
  - Bio: Student
@@ -54,13 +58,43 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+#### Name: [Shiva Hegde](https://github.com/SaintNerevar)
+ - Place: Karnataka, India
+ - Bio: Student at NITC
+ - GitHub: [SaintNerevar](https://github.com/SaintNerevar)
+#### Name : [Nikhil Philip](https://github.com/NikhilPhilip385)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [NikhilPhilip385](https://github.com/NikhilPhilip385)
+
  #### Name: [VAISHNAVI SB](GitHub link)
 - Place: kozhikode, kerala, india
 - Bio: student
 - GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
+<<<<<<< HEAD
  #### Name: [Riya Gupta](https://github.com/iriyagupta)
 - Place: Rajasthan, IN
 - Bio: student
 - GitHub: [iriyagupta](https://github.com/iriyagupta)
 
+||||||| merged common ancestors
+
+=======
+ #### Name: [Zoraiz Asif](https://github.com/zoraizasif)
+- Place: Lahore, Pakistan
+- Bio: Angular Developer
+- GitHub: [zoraizasif](https://github.com/zoraizasif)
+ #### Name: [Nafla Diva](https://github.com/nafladiva)
+- Place: Aceh, Indonesia
+- Bio: Student
+- GitHub: [nafladiva](https://github.com/nafladiva)
+#### Name: [Ajay Agarwal](https://github.com/ajay-cogsci)
+- Place: Dehradun, India
+- Bio: Student
+- GitHub: [ajay-cosci](https://github.com/ajay-cogsci)
+ #### Name: [SowmiyaNarayanan G]
+- Place: Chennai, India
+- Bio: Computer Vision Researcher
+- GitHub: [GSNCodes](https://github.com/GSNCodes)
+>>>>>>> 54fd2d0af71b2c3afe48285b7aeb6eb33f57f26c
 
