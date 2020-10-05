@@ -1,5 +1,4 @@
-# Your Name
-Vyshnavy O A
+# Vyshnavy OA
 ### Location
 
 Kochi/Kerala
