@@ -58,6 +58,10 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+ #### Name: [Farzan F A](https://github.com/Farzanfa)
+- Place: Kerala, India
+- Bio: Student
+- GitHub: [Farzanfa](https://github.com/Farzanfa)
 #### Name: [Shiva Hegde](https://github.com/SaintNerevar)
  - Place: Karnataka, India
  - Bio: Student at NITC
@@ -66,7 +70,6 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [NikhilPhilip385](https://github.com/NikhilPhilip385)
-
  #### Name: [VAISHNAVI SB](GitHub link)
 - Place: kozhikode, kerala, india
 - Bio: student
@@ -87,4 +90,3 @@
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
-
