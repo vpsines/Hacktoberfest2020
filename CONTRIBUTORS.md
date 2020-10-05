@@ -1,3 +1,7 @@
+#### Name: Mustafa U
+ - Place: Bandung, Indonesia
+ - Bio: Student
+ - Github: [sampah92](https://github.com/sampah92)
 #### Name: Farzan F A
  - Place: Aroor,Kerala
  - Bio: Student of TIST.
@@ -46,6 +50,14 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+ #### Name: [luik-2210](https://github.com/luik-2210)
+ - Place: Chatthisgarh, India
+ - Bio: Student,2nd year B.tech
+ - GitHub: [luik-2210](https://github.com/luik-2210)
+#### Name: [Thushar Kiran](https://github.com/thusharkiransd)
+ - Place: Kochi, India
+ - Bio: Student
+ - GitHub: [thusharkiransd](https://github.com/thusharkiransd)
   #### Name: [Simayon Thampi](https://github.com/Simayon)
  - Place: Kerala, India
  - Bio: Student
@@ -54,11 +66,70 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+ #### Name: Vyshnavy OA(https://github.com/vyshnavy)
+- Place: Kochi, Kerala, India
+- Bio: Student
+- GitHub: Vyshnavy(https://github.com/vyshnavy)
+#### Name :[Jitto Joyes](https://github.com/Jittojoyes98)
+- Place :Kerala,India
+- Bio :Student
+- Github :[jittojoyes98](https://github.com/Jittojoyes98)
+### Name: [Salvin Antony Varghese](https://github.com/salvinanto7)
+ - Place: Kerala,India
+ - Bio:ECE student at MACE
+ - GitHub: [salvinanto7](https://github.com/salvinanto7)
+ #### Name: [Alexander Hanfland](https://github.com/Pillborn)
+ - Place: Dallas, United States
+ - Bio: Student
+ - GitHub: [Pillborn](https://github.com/Pillborn)
+ #### Name: [Farzan F A](https://github.com/Farzanfa)
+- Place: Kerala, India
+- Bio: Student
+- GitHub: [Farzanfa](https://github.com/Farzanfa)
+#### Name: [Shiva Hegde](https://github.com/SaintNerevar)
+ - Place: Karnataka, India
+ - Bio: Student at NITC
+ - GitHub: [SaintNerevar](https://github.com/SaintNerevar)
+#### Name : [Nikhil Philip](https://github.com/NikhilPhilip385)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [NikhilPhilip385](https://github.com/NikhilPhilip385)
  #### Name: [VAISHNAVI SB](GitHub link)
 - Place: kozhikode, kerala, india
 - Bio: student
 - GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
+
  #### Name: [Anshul](https://github.com/achoudh5)
  - Place: Durham,NC,USA
  - Bio: Working Professional
  - GitHub: [achoudh5](https://github.com/achoudh5)
+
+#### Name: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
+- Place: Chennai, India
+- Bio: Full Stack Developer, Student
+- Github: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
+ #### Name: [Zoraiz Asif](https://github.com/zoraizasif)
+- Place: Lahore, Pakistan
+- Bio: Angular Developer
+- GitHub: [zoraizasif](https://github.com/zoraizasif)
+ #### Name: [Nafla Diva](https://github.com/nafladiva)
+- Place: Aceh, Indonesia
+- Bio: Student
+- GitHub: [nafladiva](https://github.com/nafladiva)
+#### Name: [Ajay Agarwal](https://github.com/ajay-cogsci)
+- Place: Dehradun, India
+- Bio: Student
+- GitHub: [ajay-cosci](https://github.com/ajay-cogsci)
+ #### Name: [SowmiyaNarayanan G]
+- Place: Chennai, India
+- Bio: Computer Vision Researcher
+- GitHub: [GSNCodes](https://github.com/GSNCodes)
+ #### Name: [Jabir] (https://github.com/Jabir7699)
+- Place: Kasaragod, Kerala
+- Bio : Web developer & CSE student 
+- Github: [Jabir7699] (https://github.commJabir7699) 
+#### Name: [Sidharth] (https://github.com/ssidharths)
+- Place: Kerala
+- Bio : BackendDev
+- Github: [ssidharths] (https://github.com/ssidharths) 
+
