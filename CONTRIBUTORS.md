@@ -126,3 +126,7 @@
 - Place: Kerala
 - Bio : BackendDev
 - Github: [ssidharths] (https://github.com/ssidharths) 
+#### Name: [Komal Pandey] (https://github.com/KomalPandey15)
+- Place: Gorakhpur, Uttar Pradesh
+- Bio : Student
+- Github: [KomalPandey15] (https://github.com/KomalPandey15)
