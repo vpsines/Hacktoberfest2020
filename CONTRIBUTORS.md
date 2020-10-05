@@ -66,6 +66,10 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+ #### Name: Vyshnavy OA(https://github.com/vyshnavy)
+- Place: Kochi, Kerala, India
+- Bio: Student
+- GitHub: Vyshnavy(https://github.com/vyshnavy)
 #### Name :[Jitto Joyes](https://github.com/Jittojoyes98)
 - Place :Kerala,India
 - Bio :Student
