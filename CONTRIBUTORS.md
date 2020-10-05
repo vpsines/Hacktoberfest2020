@@ -122,3 +122,7 @@
 - Place: Kasaragod, Kerala
 - Bio : Web developer & CSE student 
 - Github: [Jabir7699] (https://github.commJabir7699) 
+#### Name: [Sidharth] (https://github.com/ssidharths)
+- Place: Kerala
+- Bio : BackendDev
+- Github: [ssidharths] (https://github.com/ssidharths) 
