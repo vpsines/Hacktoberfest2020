@@ -7,7 +7,7 @@ Nagpur, India
 ### Academics
 
 B.Tech in CSE
-GH Raisoni College of Engineering
+(GH Raisoni College of Engineering)
 
 ### Interests
 
