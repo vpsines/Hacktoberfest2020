@@ -66,6 +66,10 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+#### Name :[Jitto Joyes](https://github.com/Jittojoyes98)
+- Place :Kerala,India
+- Bio :Student
+- Github :[jittojoyes98](https://github.com/Jittojoyes98)
 ### Name: [Salvin Antony Varghese](https://github.com/salvinanto7)
  - Place: Kerala,India
  - Bio:ECE student at MACE
