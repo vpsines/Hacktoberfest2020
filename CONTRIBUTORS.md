@@ -50,6 +50,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+ #### Name: [luik-2210](https://github.com/luik-2210)
+ - Place: Chatthisgarh, India
+ - Bio: Student,2nd year B.tech
+ - GitHub: [luik-2210](https://github.com/luik-2210)
 #### Name: [Thushar Kiran](https://github.com/thusharkiransd)
  - Place: Kochi, India
  - Bio: Student
@@ -66,7 +70,6 @@
  - Place: Dallas, United States
  - Bio: Student
  - GitHub: [Pillborn](https://github.com/Pillborn)
-=======
  #### Name: [Farzan F A](https://github.com/Farzanfa)
 - Place: Kerala, India
 - Bio: Student
