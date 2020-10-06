@@ -26,6 +26,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [jg7](https://github.com/jg7)
+ #### Name: [Mateus Matias](https://github.com/ummatias)
+ - Place: Campina Grande, Brasil
+ - Bio: Student of Computer Science 
+ - GitHub: [ummatias](https://github.com/ummatias)
 #### Name: [Rafael Sales](https://github.com/umphael)
  - Place: Esperança/Brasil
  - Bio: Studant
