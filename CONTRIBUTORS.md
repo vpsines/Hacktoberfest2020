@@ -120,9 +120,12 @@
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
  #### Name: [Jabir] (https://github.com/Jabir7699)
 - Place: Kasaragod, Kerala
-- Bio : Web developer & CSE student 
-- Github: [Jabir7699] (https://github.commJabir7699) 
+- Bio : Web developer & CSE student
+- Github: [Jabir7699] (https://github.commJabir7699)
 #### Name: [Sidharth] (https://github.com/ssidharths)
 - Place: Kerala
 - Bio : BackendDev
-- Github: [ssidharths] (https://github.com/ssidharths) 
+#### Name: [tremont] (https://github.com/tremont)
+- Place: Louisville
+- Bio : QA Engineer
+- Github: [ssidharths] (https://github.com/ssidharths)
