@@ -158,3 +158,7 @@
 - Place: Kerala, India
 - Bio: Student
 - GitHub: [vpsines](https://github.com/vpsines)
+#### Name: [Muhammed Nihad](https://github.com/muhammednihad)
+- Place: Calicut, Kerala
+- Bio: Student
+- GitHub: [Muhammed Nihad](https://github.com/muhammednihad)
