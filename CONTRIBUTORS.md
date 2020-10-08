@@ -17,7 +17,11 @@
 #### Name: Farzan T A
  - Place: Tamilnadu
  - Bio: Student
- - GitHub: [farzanfa00](https://github.com/farzanfa00)
+ - GitHub: [farzanfa00](https://github.com/farzanfa00)  
+#### Theologos, Baxevanos
+- Place: Zurich, Switzerland
+- Bio: Student
+- GitHub: [greatmerlin](https://github.com/greatmelrin)  
 #### Name: [Ishita](https://github.com/talkishita)
 - Place: Chandigarh
 - Bio: First year student
@@ -26,6 +30,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [jg7](https://github.com/jg7)
+ #### Name: [Mateus Matias](https://github.com/ummatias)
+ - Place: Campina Grande, Brasil
+ - Bio: Student of Computer Science 
+ - GitHub: [ummatias](https://github.com/ummatias)
 #### Name: [Rafael Sales](https://github.com/umphael)
  - Place: Esperança/Brasil
  - Bio: Studant
@@ -50,6 +58,18 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+ #### Name: [Anjana Unnikrishnan](https://github.com/anjanaunni)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [anjanaunni](https://github.com/anjanaunni)
+  #### Name: [Jerry](https://github.com/jerr-y)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [Jerry](https://github.com/jerr-y)
+ #### Name: [RAGHESH KUMAR](https://github.com/agni282)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [agni282](https://github.com/agni282)
  #### Name: [luik-2210](https://github.com/luik-2210)
  - Place: Chatthisgarh, India
  - Bio: Student,2nd year B.tech
@@ -116,6 +136,14 @@
 - Place: Aceh, Indonesia
 - Bio: Student
 - GitHub: [nafladiva](https://github.com/nafladiva)
+ #### Name: [Harish Trio Adityawan](https://github.com/harishtaa)
+- Place: Semarang, Indonesia
+- Bio: Student
+- GitHub: [harishtaa](https://github.com/harishtaa)
+ #### Name: [Scott](https://github.com/scott-au)
+- Place: Australia
+- Bio: Student
+- GitHub: [Scott](https://github.com/scott-au)
 #### Name: [Ajay Agarwal](https://github.com/ajay-cogsci)
 - Place: Dehradun, India
 - Bio: Student
@@ -132,4 +160,9 @@
 - Place: Kerala
 - Bio : BackendDev
 - Github: [ssidharths] (https://github.com/ssidharths) 
+
+ #### Name: [Vyshnav Sasidharan](https://github.com/vpsines)
+- Place: Kerala, India
+- Bio: Student
+- GitHub: [vpsines](https://github.com/vpsines)
 
