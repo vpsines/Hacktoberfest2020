@@ -17,7 +17,11 @@
 #### Name: Farzan T A
  - Place: Tamilnadu
  - Bio: Student
- - GitHub: [farzanfa00](https://github.com/farzanfa00)
+ - GitHub: [farzanfa00](https://github.com/farzanfa00)  
+#### Theologos, Baxevanos
+- Place: Zurich, Switzerland
+- Bio: Student
+- GitHub: [greatmerlin](https://github.com/greatmelrin)  
 #### Name: [Ishita](https://github.com/talkishita)
 - Place: Chandigarh
 - Bio: First year student
@@ -26,6 +30,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [jg7](https://github.com/jg7)
+ #### Name: [Mateus Matias](https://github.com/ummatias)
+ - Place: Campina Grande, Brasil
+ - Bio: Student of Computer Science 
+ - GitHub: [ummatias](https://github.com/ummatias)
 #### Name: [Rafael Sales](https://github.com/umphael)
  - Place: Esperança/Brasil
  - Bio: Studant
@@ -50,6 +58,18 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+ #### Name: [Anjana Unnikrishnan](https://github.com/anjanaunni)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [anjanaunni](https://github.com/anjanaunni)
+  #### Name: [Jerry](https://github.com/jerr-y)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [Jerry](https://github.com/jerr-y)
+ #### Name: [RAGHESH KUMAR](https://github.com/agni282)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [agni282](https://github.com/agni282)
  #### Name: [luik-2210](https://github.com/luik-2210)
  - Place: Chatthisgarh, India
  - Bio: Student,2nd year B.tech
@@ -98,6 +118,14 @@
 - Place: kozhikode, kerala, india
 - Bio: student
 - GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
+ #### Name: [Anshul](https://github.com/achoudh5)
+ - Place: Durham,NC,USA
+ - Bio: Working Professional
+ - GitHub: [achoudh5](https://github.com/achoudh5)
+ #### Name: [Riya Gupta](https://github.com/iriyagupta)
+- Place: Rajasthan, IN
+- Bio: student
+- GitHub: [iriyagupta](https://github.com/iriyagupta)
 #### Name: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
 - Place: Chennai, India
 - Bio: Full Stack Developer, Student
@@ -110,6 +138,18 @@
 - Place: Aceh, Indonesia
 - Bio: Student
 - GitHub: [nafladiva](https://github.com/nafladiva)
+ #### Name: [Mubeena kabeer](https://github.com/MUBEENAUQI)
+- Place: Ponnarimangalam,india
+- Bio: Student
+- GitHub: [MUBEENAUQI](https://github.com/MUBEENAUQI)
+ #### Name: [Harish Trio Adityawan](https://github.com/harishtaa)
+- Place: Semarang, Indonesia
+- Bio: Student
+- GitHub: [harishtaa](https://github.com/harishtaa)
+ #### Name: [Scott](https://github.com/scott-au)
+- Place: Australia
+- Bio: Student
+- GitHub: [Scott](https://github.com/scott-au)
 #### Name: [Ajay Agarwal](https://github.com/ajay-cogsci)
 - Place: Dehradun, India
 - Bio: Student
@@ -118,6 +158,14 @@
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
+ #### Name: [Athul Babu](https://github.com/athul4554)
+- Place: Kollam-Kerala, India
+- Bio: IT Student
+- GitHub: [athul4554](https://github.com/athul4554)
+#### Name: [Vibha Mishra](https://github.com/vibha-mishra)
+- Place: Kanpur, India
+- Bio: Student
+- GitHub: [vibha-mishra](https://github.com/vibha-mishra)
  #### Name: [Jabir] (https://github.com/Jabir7699)
 - Place: Kasaragod, Kerala
 - Bio : Web developer & CSE student
@@ -125,7 +173,20 @@
 #### Name: [Sidharth] (https://github.com/ssidharths)
 - Place: Kerala
 - Bio : BackendDev
+- Github: [ssidharths] (https://github.com/ssidharths) 
 #### Name: [tremont] (https://github.com/tremont)
 - Place: Louisville
 - Bio : QA Engineer
-- Github: [ssidharths] (https://github.com/ssidharths)
+- Github: [tremont] (https://github.com/tremont)
+#### Name: [Komal Pandey] (https://github.com/KomalPandey15)
+- Place: Gorakhpur, Uttar Pradesh
+- Bio : Student
+- Github: [KomalPandey15] (https://github.com/KomalPandey15)
+#### Name: Aditya Shankar https://github.com/asthac443
+-Place: Pune, Maharahstra, India
+-Bio: InfoSec Analyst
+-GitHub: asthac443 https://github.com/asthac443
+ #### Name: [Vyshnav Sasidharan](https://github.com/vpsines)
+- Place: Kerala, India
+- Bio: Student
+- GitHub: [vpsines](https://github.com/vpsines)
