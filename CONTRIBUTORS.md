@@ -118,6 +118,10 @@
 - Place: kozhikode, kerala, india
 - Bio: student
 - GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
+ #### Name: [Riya Gupta](https://github.com/iriyagupta)
+- Place: Rajasthan, IN
+- Bio: student
+- GitHub: [iriyagupta](https://github.com/iriyagupta)
 #### Name: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
 - Place: Chennai, India
 - Bio: Full Stack Developer, Student
