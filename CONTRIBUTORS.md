@@ -174,6 +174,10 @@
 - Place: Kerala
 - Bio : BackendDev
 - Github: [ssidharths] (https://github.com/ssidharths) 
+#### Name: [Adharsh] (https://github.com/AdharshAntony)
+- Place: Kerala
+- Bio : ece and kungfu
+- Github: [AdharshAntony] (https://github.com/AdharshAntony) 
 #### Name: [tremont] (https://github.com/tremont)
 - Place: Louisville
 - Bio : QA Engineer
