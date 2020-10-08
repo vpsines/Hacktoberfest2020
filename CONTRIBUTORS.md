@@ -118,12 +118,14 @@
 - Place: kozhikode, kerala, india
 - Bio: student
 - GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
-
  #### Name: [Anshul](https://github.com/achoudh5)
  - Place: Durham,NC,USA
  - Bio: Working Professional
  - GitHub: [achoudh5](https://github.com/achoudh5)
-
+ #### Name: [Riya Gupta](https://github.com/iriyagupta)
+- Place: Rajasthan, IN
+- Bio: student
+- GitHub: [iriyagupta](https://github.com/iriyagupta)
 #### Name: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
 - Place: Chennai, India
 - Bio: Full Stack Developer, Student
@@ -136,6 +138,10 @@
 - Place: Aceh, Indonesia
 - Bio: Student
 - GitHub: [nafladiva](https://github.com/nafladiva)
+ #### Name: [Mubeena kabeer](https://github.com/MUBEENAUQI)
+- Place: Ponnarimangalam,india
+- Bio: Student
+- GitHub: [MUBEENAUQI](https://github.com/MUBEENAUQI)
  #### Name: [Harish Trio Adityawan](https://github.com/harishtaa)
 - Place: Semarang, Indonesia
 - Bio: Student
@@ -152,6 +158,14 @@
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
+ #### Name: [Athul Babu](https://github.com/athul4554)
+- Place: Kollam-Kerala, India
+- Bio: IT Student
+- GitHub: [athul4554](https://github.com/athul4554)
+#### Name: [Vibha Mishra](https://github.com/vibha-mishra)
+- Place: Kanpur, India
+- Bio: Student
+- GitHub: [vibha-mishra](https://github.com/vibha-mishra)
  #### Name: [Jabir] (https://github.com/Jabir7699)
 - Place: Kasaragod, Kerala
 - Bio : Web developer & CSE student 
@@ -160,7 +174,6 @@
 - Place: Kerala
 - Bio : BackendDev
 - Github: [ssidharths] (https://github.com/ssidharths) 
-
  #### Name: [Vyshnav Sasidharan](https://github.com/vpsines)
 - Place: Kerala, India
 - Bio: Student
