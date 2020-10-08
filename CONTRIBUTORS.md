@@ -174,6 +174,10 @@
 - Place: Kerala
 - Bio : BackendDev
 - Github: [ssidharths] (https://github.com/ssidharths) 
+#### Name: [Komal Pandey] (https://github.com/KomalPandey15)
+- Place: Gorakhpur, Uttar Pradesh
+- Bio : Student
+- Github: [KomalPandey15] (https://github.com/KomalPandey15)
 #### Name: Aditya Shankar https://github.com/asthac443
 -Place: Pune, Maharahstra, India
 -Bio: InfoSec Analyst
@@ -182,4 +186,3 @@
 - Place: Kerala, India
 - Bio: Student
 - GitHub: [vpsines](https://github.com/vpsines)
-
