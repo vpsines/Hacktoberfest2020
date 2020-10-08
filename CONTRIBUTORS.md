@@ -198,3 +198,7 @@
 - Place: Calicut, Kerala
 - Bio: Student
 - GitHub: [Muhammed Nihad](https://github.com/muhammednihad)
+#### Name: [Mahima Sawant](https://github.com/mahimasawant)
+- Place: Goa
+- Bio: Student
+- GitHub: [Mahima Sawant](https://github.com/mahimasawant)
