@@ -118,6 +118,10 @@
 - Place: kozhikode, kerala, india
 - Bio: student
 - GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
+ #### Name: [Anshul](https://github.com/achoudh5)
+ - Place: Durham,NC,USA
+ - Bio: Working Professional
+ - GitHub: [achoudh5](https://github.com/achoudh5)
  #### Name: [Riya Gupta](https://github.com/iriyagupta)
 - Place: Rajasthan, IN
 - Bio: student
@@ -174,3 +178,4 @@
 - Place: Kerala, India
 - Bio: Student
 - GitHub: [vpsines](https://github.com/vpsines)
+
