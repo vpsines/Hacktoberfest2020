@@ -90,3 +90,7 @@
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
+#### Name: [KDBEER](https://github.com/kdbeer)
+- Place: Sisaket, Thailand
+- Bio: I am Software Engineer
+- GitHub: [KDBEER](https://github.com/kdbeer)
