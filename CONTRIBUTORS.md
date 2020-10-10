@@ -210,3 +210,7 @@
  - Place: Ernakulam,Kerala
  - Bio: Tech enthusiast.
  - GitHub: [akhilaksudarsan](https://github.com/akhilaksudarsan)
+#### Name: [Lukas Paul](https://https://github.com/lukas1505)
+ - Place: Munich, Bavaria
+ - Bio: Student
+ - Github: [Lukas Paul](https://github.com/lukas1505)
