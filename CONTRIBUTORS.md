@@ -50,3 +50,7 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+  #### Name: [Eldho Paulose](https://github.com/eldhopaulose)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [eldhopaulose](https://github.com/eldhopaulose)
