@@ -214,6 +214,10 @@
  - Place: Ernakulam,Kerala
  - Bio: Tech enthusiast.
  - GitHub: [akhilaksudarsan](https://github.com/akhilaksudarsan)
+ #### Name: Musadiq Peerzada
+ - Place: Anantnag, Kashmir
+ - Bio: Student
+ - Github: [sampah92](https://github.com/muxa11)
 #### Name: [Lukas Paul](https://https://github.com/lukas1505)
  - Place: Munich, Bavaria
  - Bio: Student
