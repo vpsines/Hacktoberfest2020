@@ -86,6 +86,10 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+  #### Name: [Eldho Paulose](https://github.com/eldhopaulose)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [eldhopaulose](https://github.com/eldhopaulose)
  #### Name: Vyshnavy OA(https://github.com/vyshnavy)
 - Place: Kochi, Kerala, India
 - Bio: Student
@@ -214,3 +218,11 @@
  - Place: Anantnag, Kashmir
  - Bio: Student
  - Github: [sampah92](https://github.com/muxa11)
+#### Name: [Lukas Paul](https://https://github.com/lukas1505)
+ - Place: Munich, Bavaria
+ - Bio: Student
+ - Github: [Lukas Paul](https://github.com/lukas1505)
+ #### Name: [Savio Varghese](https://github.com/savio08)
+- Place: Kochi,Kerala,India
+- Bio: Student
+- GitHub: [savio08](https://github.com/savio08)
