@@ -214,4 +214,3 @@
 - Place: Kochi,Kerala,India
 - Bio: Student
 - GitHub: [savio08](https://github.com/savio08)
-
