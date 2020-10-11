@@ -210,6 +210,10 @@
  - Place: Ernakulam,Kerala
  - Bio: Tech enthusiast.
  - GitHub: [akhilaksudarsan](https://github.com/akhilaksudarsan)
+#### Name: [Lukas Paul](https://https://github.com/lukas1505)
+ - Place: Munich, Bavaria
+ - Bio: Student
+ - Github: [Lukas Paul](https://github.com/lukas1505)
  #### Name: [Savio Varghese](https://github.com/savio08)
 - Place: Kochi,Kerala,India
 - Bio: Student
