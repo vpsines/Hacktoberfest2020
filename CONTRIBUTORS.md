@@ -226,3 +226,7 @@
 - Place: Kochi,Kerala,India
 - Bio: Student
 - GitHub: [savio08](https://github.com/savio08)
+ #### Name: [Aditya Raj Singh](https://github.com/AdityaRajSingh)
+- Place: Ahmedabad,Gujarat,India
+- Bio: Student
+- GitHub: [AdityaRajSingh](https://github.com/AdityaRajSingh)
