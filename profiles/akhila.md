@@ -11,6 +11,8 @@
 ### Interests
 
 - Computers
+- Art
+- Music
 
 ### Profile Link
 
