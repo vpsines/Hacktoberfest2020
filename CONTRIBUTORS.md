@@ -230,3 +230,11 @@
 - Place: Ahmedabad,Gujarat,India
 - Bio: Student
 - GitHub: [AdityaRajSingh](https://github.com/AdityaRajSingh)
+#### Name: [ANNA TREESA BOBBY](https://github.com/annabobby)
+- Place: Ernakulam, Kerala, India
+- Bio: Student
+- GitHub: [annabobby](https://github.com/annabobby/hello-world)
+#### Name: [Raphael Ebner](https://github.com/rafi0101)
+ - Place: Munich, Bavaria
+ - Bio: Student
+ - Github: [Raphael Ebner](https://github.com/rafi0101)
