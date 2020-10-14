@@ -230,3 +230,7 @@
  - Place: Munich, Bavaria
  - Bio: Student
  - Github: [Raphael Ebner](https://github.com/rafi0101)
+#### Name: Sandi Aris
+ - Place: Jakarta, Indonesia
+ - Bio: Student
+ - Github: [sandi-aris](https://github.com/sandi-aris)
