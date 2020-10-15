@@ -246,3 +246,7 @@
  - Place: delhi,india
  - Bio: Student
  - Github: [Raphael Ebner](https://github.com/farzufa)
+#### Name: [Muhammad Ali Rafly](https://github.com/raflyid)
+ - Place: Jakarta, Indonesia
+ - Bio: Full Stack Developer, Student
+ - Github: [Muhammad Ali Rafly](https://github.com/raflyid)
