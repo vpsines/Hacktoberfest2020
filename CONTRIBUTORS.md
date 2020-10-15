@@ -242,7 +242,3 @@
  - Place: Jakarta, Indonesia
  - Bio: Student
  - Github: [sandi-aris](https://github.com/sandi-aris)
-#### Name: [farzufa](https://github.com/farzufa)
- - Place: delhi, india
- - Bio: Student
- - Github: [farzufa](https://github.com/farzufa)
