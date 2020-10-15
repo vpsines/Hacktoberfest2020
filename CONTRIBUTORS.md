@@ -250,3 +250,7 @@
  - Place: Jakarta, Indonesia
  - Bio: Full Stack Developer, Student
  - Github: [Muhammad Ali Rafly](https://github.com/raflyid)
+ #### Name: [farzinafa](https://github.com/farzinafa)
+ - Place: Kerala,india
+ - Bio: Student
+ - Github: [farzinafa](https://github.com/farzinafa)
