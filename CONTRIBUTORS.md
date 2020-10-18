@@ -258,3 +258,7 @@
  - Place: Kerala,india
  - Bio: Student
  - Github: [farzinafa](https://github.com/farzinafa)
+  #### Name: [James Ta](https://github.com/jamestacos)
+ - Place: Cupertino,CA,USA
+ - Bio: Student
+ - Github: [jamestacos](https://github.com/jamestacos)
