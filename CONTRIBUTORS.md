@@ -218,6 +218,10 @@
  - Place: Ernakulam,Kerala
  - Bio: Tech enthusiast.
  - GitHub: [akhilaksudarsan](https://github.com/akhilaksudarsan)
+ #### Name: Arisandi
+ - Place: Jawa Barat, Indonesia
+ - Bio: Java Developer
+ - Github: [arisandi1](https://github.com/arisandi1)
  #### Name: Musadiq Peerzada
  - Place: Anantnag, Kashmir
  - Bio: Student
