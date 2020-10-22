@@ -266,3 +266,7 @@
  - Place: Cupertino,CA,USA
  - Bio: Student
  - Github: [jamestacos](https://github.com/jamestacos)
+#### Name: [Adwaith S](https://github.com/SnappierSoap318)
+ - Place: Kerala, India
+ - Bio: Student, Programming enthusiast
+ - Github: [SnappierSoap318](https://github.com/SnappierSoap318)
