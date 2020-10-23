@@ -1,3 +1,7 @@
+#### Name: Abi F.H
+ - Place: Jakarta, Indonesia
+ - Bio: Student
+ - Github: [abifadhillah](https://github.com/abifadhillah)
 #### Name: Mustafa U
  - Place: Bandung, Indonesia
  - Bio: Student
@@ -86,6 +90,10 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+  #### Name: [Eldho Paulose](https://github.com/eldhopaulose)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [eldhopaulose](https://github.com/eldhopaulose)
  #### Name: Vyshnavy OA(https://github.com/vyshnavy)
 - Place: Kochi, Kerala, India
 - Bio: Student
@@ -118,6 +126,14 @@
 - Place: kozhikode, kerala, india
 - Bio: student
 - GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
+ #### Name: [Anshul](https://github.com/achoudh5)
+ - Place: Durham,NC,USA
+ - Bio: Working Professional
+ - GitHub: [achoudh5](https://github.com/achoudh5)
+ #### Name: [Riya Gupta](https://github.com/iriyagupta)
+- Place: Rajasthan, IN
+- Bio: student
+- GitHub: [iriyagupta](https://github.com/iriyagupta)
 #### Name: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
 - Place: Chennai, India
 - Bio: Full Stack Developer, Student
@@ -130,6 +146,10 @@
 - Place: Aceh, Indonesia
 - Bio: Student
 - GitHub: [nafladiva](https://github.com/nafladiva)
+ #### Name: [Mubeena kabeer](https://github.com/MUBEENAUQI)
+- Place: Ponnarimangalam,india
+- Bio: Student
+- GitHub: [MUBEENAUQI](https://github.com/MUBEENAUQI)
  #### Name: [Harish Trio Adityawan](https://github.com/harishtaa)
 - Place: Semarang, Indonesia
 - Bio: Student
@@ -146,15 +166,107 @@
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
+#### Name: [KDBEER](https://github.com/kdbeer)
+- Place: Sisaket, Thailand
+- Bio: I am Software Engineer
+- GitHub: [KDBEER](https://github.com/kdbeer)
+#### Name: [Athul Babu](https://github.com/athul4554)
+- Place: Kollam-Kerala, India
+- Bio: IT Student
+- GitHub: [athul4554](https://github.com/athul4554)
+#### Name: [Vibha Mishra](https://github.com/vibha-mishra)
+- Place: Kanpur, India
+- Bio: Student
+- GitHub: [vibha-mishra](https://github.com/vibha-mishra)
  #### Name: [Jabir] (https://github.com/Jabir7699)
 - Place: Kasaragod, Kerala
-- Bio : Web developer & CSE student 
-- Github: [Jabir7699] (https://github.commJabir7699) 
+- Bio : Web developer & CSE student
+- Github: [Jabir7699] (https://github.commJabir7699)
 #### Name: [Sidharth] (https://github.com/ssidharths)
 - Place: Kerala
 - Bio : BackendDev
 - Github: [ssidharths] (https://github.com/ssidharths) 
+#### Name: [Adharsh] (https://github.com/AdharshAntony)
+- Place: Kerala
+- Bio : ece and kungfu
+- Github: [AdharshAntony] (https://github.com/AdharshAntony) 
+#### Name: [tremont] (https://github.com/tremont)
+- Place: Louisville
+- Bio : QA Engineer
+- Github: [tremont] (https://github.com/tremont)
+#### Name: [Komal Pandey] (https://github.com/KomalPandey15)
+- Place: Gorakhpur, Uttar Pradesh
+- Bio : Student
+- Github: [KomalPandey15] (https://github.com/KomalPandey15)
+#### Name: Aditya Shankar https://github.com/asthac443
+-Place: Pune, Maharahstra, India
+-Bio: InfoSec Analyst
+-GitHub: asthac443 https://github.com/asthac443
  #### Name: [Vyshnav Sasidharan](https://github.com/vpsines)
 - Place: Kerala, India
 - Bio: Student
 - GitHub: [vpsines](https://github.com/vpsines)
+#### Name: [Muhammed Nihad](https://github.com/muhammednihad)
+- Place: Calicut, Kerala
+- Bio: Student
+- GitHub: [Muhammed Nihad](https://github.com/muhammednihad)
+#### Name: [Mahima Sawant](https://github.com/mahimasawant)
+- Place: Goa
+- Bio: Student
+- GitHub: [Mahima Sawant](https://github.com/mahimasawant)
+#### Name: [Akhila K Sudarsan](https://github.com/akhilaksudarsan)
+ - Place: Ernakulam,Kerala
+ - Bio: Tech enthusiast.
+ - GitHub: [akhilaksudarsan](https://github.com/akhilaksudarsan)
+ #### Name: Arisandi
+ - Place: Jawa Barat, Indonesia
+ - Bio: Java Developer
+ - Github: [arisandi1](https://github.com/arisandi1)
+ #### Name: Musadiq Peerzada
+ - Place: Anantnag, Kashmir
+ - Bio: Student
+ - Github: [sampah92](https://github.com/muxa11)
+#### Name: [Lukas Paul](https://https://github.com/lukas1505)
+ - Place: Munich, Bavaria
+ - Bio: Student
+ - Github: [Lukas Paul](https://github.com/lukas1505)
+ #### Name: [Savio Varghese](https://github.com/savio08)
+- Place: Kochi,Kerala,India
+- Bio: Student
+- GitHub: [savio08](https://github.com/savio08)
+ #### Name: [Aditya Raj Singh](https://github.com/AdityaRajSingh)
+- Place: Ahmedabad,Gujarat,India
+- Bio: Student
+- GitHub: [AdityaRajSingh](https://github.com/AdityaRajSingh)
+#### Name: [ANNA TREESA BOBBY](https://github.com/annabobby)
+- Place: Ernakulam, Kerala, India
+- Bio: Student
+- GitHub: [annabobby](https://github.com/annabobby/hello-world)
+#### Name: [Raphael Ebner](https://github.com/rafi0101)
+ - Place: Munich, Bavaria
+ - Bio: Student
+ - Github: [Raphael Ebner](https://github.com/rafi0101)
+#### Name: Sandi Aris
+ - Place: Jakarta, Indonesia
+ - Bio: Student
+ - Github: [sandi-aris](https://github.com/sandi-aris)
+#### Name: [farzufa](https://github.com/farzufa)
+ - Place: delhi,india
+ - Bio: Student
+ - Github: [Raphael Ebner](https://github.com/farzufa)
+#### Name: [Muhammad Ali Rafly](https://github.com/raflyid)
+ - Place: Jakarta, Indonesia
+ - Bio: Full Stack Developer, Student
+ - Github: [Muhammad Ali Rafly](https://github.com/raflyid)
+ #### Name: [farzinafa](https://github.com/farzinafa)
+ - Place: Kerala,india
+ - Bio: Student
+ - Github: [farzinafa](https://github.com/farzinafa)
+  #### Name: [James Ta](https://github.com/jamestacos)
+ - Place: Cupertino,CA,USA
+ - Bio: Student
+ - Github: [jamestacos](https://github.com/jamestacos)
+#### Name: [Adwaith S](https://github.com/SnappierSoap318)
+ - Place: Kerala, India
+ - Bio: Student, Programming enthusiast
+ - Github: [SnappierSoap318](https://github.com/SnappierSoap318)
